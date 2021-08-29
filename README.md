@@ -1,2 +1,2 @@
 # weather-info-program
-Project from Moraine Valley's CSC 240 course.
+A simple project from Moraine Valley's CSC 240 course. This program implements an iterative function that allows the user to input "Weather Info" objects and their specifications to standard input which are then stored into "week" arrays. This program also implements an iterative function that allows the user to display all of the "Weather Info" objects details in a formatted table, with additional calculations displayed such as "average high temperatures," "average low temperatures," and "total rainfall."
